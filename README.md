@@ -2,5 +2,5 @@
 A website using ReactJs to store your expenses
 
 
-[expenseHandler]{https://expense-handler-sosenkkk.netlify.app/}
+[expenseHandler](https://expense-handler-sosenkkk.netlify.app/)
 
